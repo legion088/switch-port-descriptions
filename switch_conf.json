@@ -1,0 +1,12 @@
+{
+    "172.16.2.127": {
+            "username": "username",
+            "password": "password",
+            "ports":24
+        },
+    "172.16.2.128": {
+            "username": "username",
+            "password": "password",
+            "ports":48
+    }
+}
