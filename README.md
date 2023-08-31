@@ -1,3 +1,10 @@
+<div align="center">
+<a href="https://perviy-vestnik.ru/wp-content/uploads/2023/08/2023-K-390-1-08_23.pdf">
+<img src="https://github.com/legion088/switch-port-descriptions/blob/main/img/vestnik.png"/>
+</a>
+</div>
+<br>
+
 # Автоматизация работы с коммутаторами с помощью Python
 > Исходный код размещён для конференции научных статей "Вестник Науки" (МНК-390)
 
